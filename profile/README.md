@@ -3,24 +3,30 @@
   <img src="https://raw.githubusercontent.com/Custoden/.github/main/profile/logo-light.svg#gh-light-mode-only" alt="Custoden" height="36">
 </p>
 
-Threat prevention for cloud-native companies, from the software supply chain to the endpoint.
+Custoden protects endpoints, cloud infrastructure, identities, software supply chains and AI agents on a single detection and response platform.
 
-### Free supply chain API
+### Platform
 
-Check npm and PyPI packages and GitHub Actions workflows before they reach your environment. No account or API key.
+Seven capabilities on one detection and response engine.
 
-* **Packages:** known malware, install-time and startup code, typosquatting, and vulnerabilities
-* **Workflows:** secret exfiltration, script injection, and actions from missing, new or look-alike repositories
-* **Run history:** workflows that ran and were then reverted or force-pushed away
+| Module | |
+|---|---|
+| **Endpoint & Workload** | Ransomware and exfiltration stopped on the device. |
+| **Phishing & Web** | Phishing blocked in the browser. |
+| **Developer & Supply Chain** | Malicious packages and extensions blocked before install. |
+| **Cloud & Infrastructure** | Attack paths across your cloud and Kubernetes estate. |
+| **Identity** | Session theft, leaked secrets and excess permissions. |
+| **AI Security** | Security for LLM applications and AI agents. |
+| **Deception** | Honeytokens and canary files across your estate. |
 
-Detections are based on published research into campaigns such as Shai-Hulud, GhostAction and the tj-actions compromise.
+### Audits
 
-[Documentation](https://github.com/Custoden/docs)
+Standalone security audits: security assessments, application penetration testing, assumed-breach assessments, cloud configuration audits, supply chain reviews, and an incident response retainer.
 
-### Security audits
+### Free tools
 
-Human-led reviews of CI/CD pipelines, cloud configuration and dependencies. Contact us through [custoden.com](https://custoden.com).
+* [Custoden API](https://github.com/Custoden/docs): free, keyless API for checking npm and PyPI packages and GitHub Actions workflows.
 
-### Reporting a vulnerability
+### Contact
 
-See our [security policy](https://github.com/Custoden/.github/blob/main/SECURITY.md).
+[custoden.com](https://custoden.com) · [Security policy](https://github.com/Custoden/.github/blob/main/SECURITY.md)
