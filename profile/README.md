@@ -9,15 +9,13 @@ Custoden protects endpoints, cloud infrastructure, identities, software supply c
 
 Seven capabilities on one detection and response engine.
 
-| Module | |
-|---|---|
-| **Endpoint & Workload** | Ransomware and exfiltration stopped on the device. |
-| **Phishing & Web** | Phishing blocked in the browser. |
-| **Developer & Supply Chain** | Malicious packages and extensions blocked before install. |
-| **Cloud & Infrastructure** | Attack paths across your cloud and Kubernetes estate. |
-| **Identity** | Session theft, leaked secrets and excess permissions. |
-| **AI Security** | Security for LLM applications and AI agents. |
-| **Deception** | Honeytokens and canary files across your estate. |
+* **Endpoint & Workload:** Ransomware and exfiltration stopped on the device.
+* **Phishing & Web:** Phishing blocked in the browser.
+* **Developer & Supply Chain:** Malicious packages and extensions blocked before install.
+* **Cloud & Infrastructure:** Attack paths across your cloud and Kubernetes estate.
+* **Identity:** Session theft, leaked secrets and excess permissions.
+* **AI Security:** Security for LLM applications and AI agents.
+* **Deception:** Honeytokens and canary files across your estate.
 
 ### Audits
 
